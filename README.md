@@ -57,7 +57,7 @@ sorting
 sort  
 alg  
 di  
-pic  
+pi  
 food  
 /exit  
 
@@ -75,11 +75,12 @@ quick-**alg**ebra : 4
 **di**fferent : 2 4  
 **di**vide-and-conquer : 2  
 pew-**di**e-pie : 3  
- 
-**pic**k : 2  
-**pic**ked : 2  
-**pic**ks : 2    
-universal-**pic**tures : 3  
+  
+pew-die-**pi**e : 3  
+**pi**ck : 2  
+**pi**cked : 2  
+**pi**cks : 2  
+**pi**vot : 2    
   
 No suggestions...
 
