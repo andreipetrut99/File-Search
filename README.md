@@ -35,59 +35,53 @@ despartit prin cratima.
 ### __ML.txt__ :
 Machine-learning algorithms are used in a wide variety of applications, such as email-filtering, detection of network-intruders, and computer-vision, where it is infeasible to develop an algorithm of specific instructions for performing the task.
 
-### __Language.paint__ : 
-The European **la**nguages are members of the **sa**me family. Their separate existence is a myth. For science, music, sport, etc, Europe uses the **sa**me vocabulary. The **la**nguages only differ in their grammar, their pronunciation and their most common words.
+### __quicksort.paint__ : 
+Like Merge-Sort, Quick-Sort is a Divide-and-Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quick-Sort that pick pivot in different ways.
 
 ### __youtube.database__ :
-S-**lang**
-**La**mborghini
-Work-around
-**La**dy-bird  
-**La**dy-**bu**g  
-**La**ke-side  
-**Sa**feboat  
-Minor-**sa**fe  
-**La**ke-bed  
-**sa**me  
-**bu**tter-fly  
-**bu**tter-milk  
+Pew-Die-Pie
+Alguma-Coisa
+Universal-Pictures
+SORTEDfood
+Algorithm
 
-### __analemma.4d__ :
-**Sa**feguard  
-**Sa**feboat  
-**sa**me  
-**La**ke-bed  
-man-**lang**os-pig  
+### __randomwords.org.4d__ :
+different
+algorithm
+goodsort
+quick-algebra
+sorting
 
 ### `./kevin Language.paint youtube.database analemma.4d`
 ### __Input `stdio`__ :
-sa  
-bu  
-la  
-Lang  
-bo  
+sort
+alg
+di
+pic
 /exit  
 
 ### __Output `stdout`__ :
-minor-**sa**fe : 2  
-**sa**feboat : 2 3  
-**sa**feguard : 3  
-**sa**me : 1 2 3  
-  
-**bu**tter-fly : 2  
-**bu**tter-milk : 2  
-lady-**bu**g : 2  
-  
-**la**dy-bird : 2  
-**la**dy-bug : 2  
-**la**ke-bed : 3 2  
-**la**ke-side : 2  
-**la**mborghini : 2  
-  
-**lang**uages : 1  
-man-**lang**os-pig : 3  
-s-**lang** : 2  
-  
+merge-sort : 2
+quick-sort : 2
+sortedfood : 3
+sorting : 4
+
+quick-algebra : 4
+algorithm : 1 2 3 4
+algorithms : 1
+alguma-coisa : 3
+
+different : 2 4
+divide-and-conquer : 2
+pew-die-pie : 3
+
+pew-die-pie : 3
+pick : 2
+picked : 2
+picks : 2
+pivot : 2
+universal-pictures : 3
+
 No suggestions...
 
 
