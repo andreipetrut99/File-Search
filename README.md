@@ -39,49 +39,48 @@ Machine-learning algorithms are used in a wide variety of applications, such as 
 Like Merge-Sort, Quick-Sort is a Divide-and-Conquer algorithm. It picks an element as pivot and partitions the given array around the picked pivot. There are many different versions of quick-Sort that pick pivot in different ways.
 
 ### __youtube.database__ :
-Pew-Die-Pie
-Alguma-Coisa
-Universal-Pictures
-SORTEDfood
-Algorithm
+Pew-Die-Pie  
+Alguma-Coisa  
+Universal-Pictures  
+SORTEDfood  
+Algorithm  
 
 ### __randomwords.org.4d__ :
-different
-algorithm
-goodsort
-quick-algebra
-sorting
+different  
+algorithm  
+goodsort  
+quick-algebra  
+sorting  
 
 ### `./kevin Language.paint youtube.database analemma.4d`
 ### __Input `stdio`__ :
-sort
-alg
-di
-pic
+sort  
+alg  
+di  
+pic  
+food  
 /exit  
 
 ### __Output `stdout`__ :
-merge-sort : 2
-quick-sort : 2
-sortedfood : 3
-sorting : 4
+merge-**sort** : 2  
+quick-**sort** : 2  
+**sort**edfood : 3  
+**sort**ing : 4  
 
-quick-algebra : 4
-algorithm : 1 2 3 4
-algorithms : 1
-alguma-coisa : 3
+quick-**alg**ebra : 4  
+**alg**orithm : 1 2 3 4  
+**alg**orithms : 1  
+**alg**uma-coisa : 3  
 
-different : 2 4
-divide-and-conquer : 2
-pew-die-pie : 3
-
-pew-die-pie : 3
-pick : 2
-picked : 2
-picks : 2
-pivot : 2
-universal-pictures : 3
-
+**di**fferent : 2 4  
+**di**vide-and-conquer : 2  
+pew-**di**e-pie : 3  
+ 
+**pic**k : 2  
+**pic**ked : 2  
+**pic**ks : 2    
+universal-**pic**tures : 3  
+  
 No suggestions...
 
 
