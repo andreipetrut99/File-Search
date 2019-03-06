@@ -52,7 +52,7 @@ goodsort
 quick-algebra  
 sorting  
 
-### `./kevin Language.paint youtube.database analemma.4d`
+### `./kevin ML.txt quicksort.paint youtube.database randomwords.org.4d`
 ### __Input `stdio`__ :
 sort  
 alg  
