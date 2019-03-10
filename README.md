@@ -67,10 +67,10 @@ quick-**sort** : 2
 **sort**edfood : 3  
 **sort**ing : 4  
 
-quick-**alg**ebra : 4  
 **alg**orithm : 1 2 3 4  
 **alg**orithms : 1  
 **alg**uma-coisa : 3  
+quick-**alg**ebra : 4  
 
 **di**fferent : 2 4  
 **di**vide-and-conquer : 2  
