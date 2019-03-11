@@ -84,6 +84,13 @@ pew-die-**pi**e : 3
   
 No suggestions...
 
+## Rulare checker
+Pentru a rula checkerul, trebuie creat un fisier MAKEFILE cu reguli de build, clean si run.  
+  
+  **ATENTIE:** Regula de run trebuie sa execute programul cu parametrii din linia de comanda,
+  prin intermediul variabilei **$(var)**. Un exemplu de fisier MAKEFILE pentru o solutie implementata
+  in C++ se afla in arhiva.
+
 
 
 
