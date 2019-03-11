@@ -13,7 +13,7 @@ mkdir output
 echo ""
 echo "--------------- Tests ---------------"
 for i in $(seq 0 $testsNumber); do
-    make run var="./in/test$i/file*.txt" < ./in/test$i/input > ./output/test$i.out
+    make -s run var="./in/test$i/file*.txt" < ./in/test$i/input > ./output/test$i.out
 	diff -Z ./output/test$i.out ref/test$i.ref > /dev/null 
 	if [ $? -eq 0 ]; then
 		echo "Test $i ......................... passed"

@@ -13,4 +13,4 @@ clean:
 	rm -rf *.o kevin
 
 run: kevin
-	@./kevin $(var)
+	./kevin $(var)
